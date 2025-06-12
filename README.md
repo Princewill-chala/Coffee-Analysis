@@ -1,5 +1,11 @@
 # Data Analysis of Coffee Shop Transactions
+## Table of Content
+
 ![coffee_image](coffee_image.jpeg)
+
+## Table of Content
+-[Project Overview](#Project-Overview)
+-[Skills](#Skills)
 
 ## Project Overview 
 SSH (Secure Shell) is a cryptographic network protocol that securely access and manage devices over an unsecured network. It provides a secure channel for communication between a client and a server, commonly used for remote login and command execution
